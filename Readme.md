@@ -1,3 +1,9 @@
+# Eigen aantekeningen
+
+mkdir -p /data/k8s-storage/grafana/; mkdir -p /data/k8s-storage/prometheus; chown 1000:0 /data/k8s-storage/prometheus; chown 472:472 /data/k8s-storage/grafana
+
+
+
 # Cluster Monitoring stack for ARM / X86-64 platforms
 
 The Prometheus Operator for Kubernetes provides easy monitoring definitions for Kubernetes services and deployment and management of Prometheus instances.
